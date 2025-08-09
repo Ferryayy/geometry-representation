@@ -4,7 +4,7 @@ This is the official implementation for the paper **G-IR: Geometric Image Repres
 
 In this work, we propose an innovative geometric image representation (G-IR). Based on the theories of Optimal Transport and Quasiconformal Mapping, our method transforms the pixel intensity representation of an image into an intrinsic, reversible geometric shape representation known as the Beltrami Coefficient. This representation captures the fine-grained structure of the image and preserves structural continuity and fidelity in generative tasks, demonstrating superior performance in applications like image reconstruction and interpolation.
 
-![Pipeline](https://raw.githubusercontent.com/your_username/your_repo/main/assets/pipeline.png) *Figure: Overview of the G-IR generation and reconstruction pipeline.*
+![Pipeline](need to add) *Figure: Overview of the G-IR generation and reconstruction pipeline.*
 
 ## Introduction
 
@@ -21,8 +21,8 @@ This repository contains the code for each core module of the G-IR framework, as
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/your_username/your_repo.git](https://github.com/your_username/your_repo.git)
-    cd your_repo
+    git clone xx
+    cd xx
     ```
 
 2.  **Create a Conda Environment (Recommended)**
@@ -56,7 +56,7 @@ This repository contains the code for each core module of the G-IR framework, as
         numpy
         matplotlib
         scipy
-        # ... other libraries you used
+        
         ```
 
 ## Code Modules
