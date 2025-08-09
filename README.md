@@ -5,6 +5,7 @@ This is the official implementation for the paper **G-IR: Geometric Image Repres
 In this work, we propose an innovative geometric image representation (G-IR). Based on the theories of Optimal Transport and Quasiconformal Mapping, our method transforms the pixel intensity representation of an image into an intrinsic, reversible geometric shape representation known as the Beltrami Coefficient. This representation captures the fine-grained structure of the image and preserves structural continuity and fidelity in generative tasks, demonstrating superior performance in applications like image reconstruction and interpolation.
 
 ![Pipeline](need to add) *Figure: Overview of the G-IR generation and reconstruction pipeline.*
+> **Note:** The source code will be made publicly available upon the acceptance of the paper.
 
 ## Introduction
 
